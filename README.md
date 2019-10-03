@@ -1,9 +1,5 @@
 # E06a-Bullets
-Playing with bullet sprites:
-
-It's narwhals vs. penguins(?)! These natural enemies are locked in a battle; who will survive?
-
-I have given you the beginnings of a shooter game. At a minimum, you will need to generate a bullet when the mouse button is clicked (line 95), and then detect a collsion with a penguin (line 76), decrease its health, check if it dies, and increase the player's score.
+I'm gonna be honest I finished this in class while you were showing me how to do it and then just forgot to push it so my apologies. Basically what I did is generate a bullet and with your help figured out how to detect when each current bullet collides with an enemy sprite and when it does it kills the bullet while damaging the enemy and increasing score until all the enemy sprites are killed. Again, sorry this is late, if I get a 0 I understand I goofed up.
 
 For extra credit, end the game when all the penguins have been killed.
 
